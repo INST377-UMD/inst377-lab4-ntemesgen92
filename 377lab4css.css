@@ -1,0 +1,26 @@
+.heading{
+    text-align: center;
+    background-color: rgb(81, 168, 202);
+}
+
+
+
+.box{
+    background-color: lightsalmon;
+    color: white;
+    border: white;
+    width: 34%;
+    align-content: flex-start;
+    margin: 25px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
